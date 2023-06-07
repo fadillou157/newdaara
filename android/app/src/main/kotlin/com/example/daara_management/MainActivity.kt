@@ -1,0 +1,6 @@
+package com.example.daara_management
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
